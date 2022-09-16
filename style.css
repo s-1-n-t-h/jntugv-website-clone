@@ -1,0 +1,44 @@
+.blue-container ul{
+    list-style: none;
+}
+
+.blue-container ul li{
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+}
+
+.blue-container{
+    background-color: blue;
+}
+
+
+.main-logo img{
+    display: block;
+    margin: auto;
+}
+
+.college-title h1{
+    color: red;
+    display: block;
+    margin: auto;
+}
+
+.title-abbrevation h2{
+    color: blue;
+}
+
+.recognition-green{
+    color: green;
+}
+
+.nba a img{
+    display: block;
+    margin: 10;
+    width: 100px;
+    height: 100px;
+}
+
+
+
